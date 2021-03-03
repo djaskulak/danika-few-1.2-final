@@ -6,8 +6,12 @@ import MetalMeta from './MetalMeta';
 function App() {
   return (
     <div className="App">
-      <Header />
-      <MetalMeta />
+
+      <header className="header">
+        <Header />
+        <MetalMeta />
+      </header>
+
     </div>
   );
 }
