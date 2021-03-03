@@ -1,7 +1,9 @@
-import React from 'react';
 import './App.css';
+
 import Header from './components/header/header';
 import MetalMeta from './MetalMeta';
+
+import BandsList from './components/bandslist/bandslist'
 
 function App() {
   return (
@@ -11,6 +13,10 @@ function App() {
         <Header />
         <MetalMeta />
       </header>
+
+      <div className='list'>
+        <BandsList />
+      </div>
 
     </div>
   );
