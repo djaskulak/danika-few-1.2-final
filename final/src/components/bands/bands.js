@@ -10,7 +10,7 @@ function Band(props) {
       <h1>{ name }</h1>
       <p><b>Formed:</b> { formed }</p>
       <p><b>Origin:</b> { origin }</p>
-      <p><b>Fans:</b> { fans }</p>
+      <p><b>Fans:</b> { (fans * 1000).toLocaleString('en') }</p>
 
       <Like />
     </div>
