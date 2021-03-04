@@ -1,0 +1,9 @@
+.BandsList {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2em;
+  margin: auto;
+  padding: 2em;
+  background-color: #3a3a3a;
+  color: white;
+}

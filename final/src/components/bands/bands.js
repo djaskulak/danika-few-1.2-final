@@ -1,5 +1,6 @@
 import React from 'react';
-import Like from '../like'
+import Like from '../like';
+import './bands.css';
 
 function Band(props) {
   const { name, formed, origin, fans } = props

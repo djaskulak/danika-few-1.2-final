@@ -1,6 +1,7 @@
 import React from 'react';
 import data from '../../metal.json';
 import Band from '../bands/bands';
+import './bandslist.css'
 
 function BandsList () {
   const bands = data.map(({ band_name, formed, origin, fans }, i) => {
