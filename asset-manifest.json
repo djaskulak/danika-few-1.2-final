@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/danika-few1.2-final/static/css/main.1e8648ac.chunk.css",
+    "main.js": "/danika-few1.2-final/static/js/main.701cb55b.chunk.js",
+    "main.js.map": "/danika-few1.2-final/static/js/main.701cb55b.chunk.js.map",
+    "runtime-main.js": "/danika-few1.2-final/static/js/runtime-main.7d4b384a.js",
+    "runtime-main.js.map": "/danika-few1.2-final/static/js/runtime-main.7d4b384a.js.map",
+    "static/js/2.65f951fc.chunk.js": "/danika-few1.2-final/static/js/2.65f951fc.chunk.js",
+    "static/js/2.65f951fc.chunk.js.map": "/danika-few1.2-final/static/js/2.65f951fc.chunk.js.map",
+    "static/js/3.ef2e677e.chunk.js": "/danika-few1.2-final/static/js/3.ef2e677e.chunk.js",
+    "static/js/3.ef2e677e.chunk.js.map": "/danika-few1.2-final/static/js/3.ef2e677e.chunk.js.map",
+    "index.html": "/danika-few1.2-final/index.html",
+    "static/css/main.1e8648ac.chunk.css.map": "/danika-few1.2-final/static/css/main.1e8648ac.chunk.css.map",
+    "static/js/2.65f951fc.chunk.js.LICENSE.txt": "/danika-few1.2-final/static/js/2.65f951fc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d4b384a.js",
+    "static/js/2.65f951fc.chunk.js",
+    "static/css/main.1e8648ac.chunk.css",
+    "static/js/main.701cb55b.chunk.js"
+  ]
+}
